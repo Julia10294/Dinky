@@ -1,0 +1,22 @@
+﻿[
+    {
+        "id": "1",
+        "lat": "50.875906",
+        "lng": "8.019509",
+        "title": "Universität Siegen, Herrengarten",
+        "summary": "",
+        "has_detail_page": "1",
+        "webpage": "https://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/herrengarten.html",
+        "elevation": "240"
+    },
+    {
+        "id": "2",
+        "lat": "50.8737227",
+        "lng": "8.0188285",
+        "title": "Unteres Schloss, Siegen",
+        "summary": "",
+        "has_detail_page": "1",
+        "webpage": "https://de.wikipedia.org/wiki/Unteres_Schloss_(Siegen)",
+        "elevation": "249,91"
+    }
+]
