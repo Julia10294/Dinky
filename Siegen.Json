@@ -1,4 +1,4 @@
-﻿{"status": "OK", "num_results":2,
+{"status": "OK", "num_results":2,
  "results":
  [
     {
@@ -19,7 +19,7 @@
         "summary": "",
         "has_detail_page": "1",
         "webpage": "https://de.wikipedia.org/wiki/Unteres_Schloss_(Siegen)",
-        "elevation": "249,91"
+        "elevation": "249.91"
     }
 ]
 }
